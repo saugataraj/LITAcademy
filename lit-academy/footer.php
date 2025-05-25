@@ -71,7 +71,7 @@
 	<div class="container-fluid" id="footer_bottom">
 		<div class="row">
 			<div class="col-md-12">
-				<p>&copy; 2016 LIT Academy. All Rights Reserved.</p>
+				<p>&copy; 2025 LIT Academy. All Rights Reserved.</p>
 			</div>
 		</div>
 	</div>
