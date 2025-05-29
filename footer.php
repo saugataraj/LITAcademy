@@ -5,7 +5,7 @@
 				<div class="col-md-12 col-sm-12 col-xs-12">
 					<h4>LIT Academy</h4>
 					<p>No. 3B, Orchard Court, 123 Chamiers Road, R. A. Puram, Chennai - 600 028 </p>
-					<p>Phone : +91 000 1234 1234,  +91 000 1234 1234   |    E-mail : <a href="mailto:info@domain.in">info@domain.in</a></p>
+					<p>Phone : +91 000 1234 1234,  +91 000 1234 1234   |    E-mail : <a href="mailto:saugata@lit.academy">saugata@lit.academy</a></p>
 				</div>
 			</div>
 		</div>
