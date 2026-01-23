@@ -1,0 +1,5 @@
+name: litacademy
+app_id: da_2dAIdtrUv8Ve
+owner: saugataraj
+package: sha256:90aa18161616edf5984bc3debdbabcb4711e7bff47f5c376c15d8f6961a2c61e
+kind: wasmer.io/App.v0

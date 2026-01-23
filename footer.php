@@ -4,8 +4,8 @@
 			<div class="row">
 				<div class="col-md-12 col-sm-12 col-xs-12">
 					<h4>LIT Academy</h4>
-					<p>No. 3B, Orchard Court, 123 Chamiers Road, R. A. Puram, Chennai - 600 028 </p>
-					<p>Phone : +91 000 1234 1234,  +91 000 1234 1234   |    E-mail : <a href="mailto:info@domain.in">info@domain.in</a></p>
+					<p>GA1, 407, Creation Genesis Apartment, SIPCOT, Siruseri, OMR, Chennai - 600 130 </p>
+					<p>Phone : +91 44 4744 7053,  +91 98400 23191   |    E-mail : <a href="mailto:saugata@lit.academy">saugata@lit.academy</a></p>
 				</div>
 			</div>
 		</div>
@@ -18,8 +18,8 @@
 			<div  class="col-md-12 col-sm-12 col-xs-12">
 				<div class="col-md-3 col-sm-3 col-xs-12 mobile">
 					<h3>Contact us</h3>					
-					<p>LIT Academy <br/>Research and Development <br/> No. 3B, Orchard Court,<br/>
- 123 Chamiers Road,<br/> R. A.Puram, <br/> Chennai - 600 028</p>
+					<p>LIT Academy <br/>Research and Development <br/> Creation Genesis Apartment,<br/>
+ SIPCOT, Siruseri,<br/> OMR, <br/> Chennai - 600 130</p>
 					<h3>Social Links</h3>
 					<ul class="social-icons icon-circle icon-rotate list-unstyled list-inline"> 
 				      <li><a href="https://www.facebook.com/LIT-Academy-1154447691296167/" target="_blank"><i class="fa fa-facebook"></i></a> </li> 
@@ -71,7 +71,7 @@
 	<div class="container-fluid" id="footer_bottom">
 		<div class="row">
 			<div class="col-md-12">
-				<p>&copy; 2025 LIT Academy. All Rights Reserved.</p>
+				<p>&copy; 2026 LIT Academy. All Rights Reserved.</p>
 			</div>
 		</div>
 	</div>
@@ -106,3 +106,4 @@
 </script>
 </body>
 </html>
+
