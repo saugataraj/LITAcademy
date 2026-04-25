@@ -1,0 +1,23 @@
+# Server / hosting artifacts
+error_log
+*.log
+app.yaml
+*.yaml
+
+# PHP files (should not exist in static output)
+*.php
+*Form.php
+* - Copy.*
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Node / test dependencies (dev only, not needed for static site)
+node_modules/
+package-lock.json
+dist/
