@@ -3,8 +3,7 @@ a:focus{outline:none !important;}
 .hvr-overline-from-center{position:relative;}
 .hvr-overline-from-center:before{content:"";position:absolute;left:50%;right:50%;top:0;background:#ea3f33;height:4px;-webkit-transition-property:all;transition-property:all;-webkit-transition-duration:0.3s;transition-duration:0.3s;-webkit-transition-timing-function:ease-out;transition-timing-function:ease-out;width:0px;}
 .hvr-overline-from-center:hover:before, .hvr-overline-from-center:focus:before, .hvr-overline-from-center:active:before{left:0;right:0;width:100%;}
-#preloader{position:fixed;top:0;left:0;right:0;bottom:0;background-color:#fff;z-index:999999;}
-#status{width:200px;height:200px;position:absolute;left:50%;top:50%;background-image:url(../img/status.gif);background-repeat:no-repeat;background-position:center;margin:-100px 0 0 -100px;}
+
 .clear{clear:both;}
 ul,li{list-style:none;margin:0px;padding:0px;}
 .clear{clear:both;}
