@@ -42,11 +42,11 @@ Add **four** A records pointing the root domain to GitHub Pages:
 
 ### 3.2 Add a CNAME Record for `www`
 
-| Type  | Name | Value                        | TTL  |
-|-------|------|------------------------------|------|
-| CNAME | www  | `<github-username>.github.io` | 600  |
+| Type  | Name | Value                    | TTL  |
+|-------|------|--------------------------|------|
+| CNAME | www  | `saugataraj.github.io`   | 600  |
 
-Replace `<github-username>` with your actual GitHub username.
+**Important:** Use `saugataraj.github.io` — do NOT include the repository path (`/LITAcademy/`). GitHub Pages maps the custom domain directly to the repo content, so the subdirectory path is not needed here.
 
 ### 3.3 Remove or Replace Existing Wasmer Records
 
